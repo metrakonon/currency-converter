@@ -1,0 +1,22 @@
+.header {
+  background-color: #f8f9fa;
+  padding: 10px 20px;
+  border-bottom: 1px solid #dee2e6;
+  text-align: center;
+
+  .header-title {
+    font-size: 24px;
+    margin: 0;
+    color: #343a40;
+  }
+
+  .currency-rates {
+    margin-top: 10px;
+
+    .rate {
+      font-size: 18px;
+      color: #495057;
+      margin: 5px 0;
+    }
+  }
+}
